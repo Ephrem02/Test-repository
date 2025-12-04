@@ -10,6 +10,7 @@ shopping cart, place orders, and make payments through mobile money platforms su
 The system aims to simulate real world e-commerce environment, emphasizing transaction accuracy, stock management automations, and secure payment handling. 
 All core logic- such as adding items to carts, updating stock levels and validating payments and it is implemented using PL/SQL stored procedures, triggers, and 
 functions for reliability and performance.
-## [Problem Statement](<Manzi Ephrem.docx>)
+## [Problem Statement](<Manzi.Ephrem.docx>)
+
 
 
