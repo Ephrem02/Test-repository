@@ -12,5 +12,9 @@ All core logic- such as adding items to carts, updating stock levels and validat
 functions for reliability and performance.
 ## [Problem Statement](<Manzi.Ephrem.docx>)
 
+## [LOGICAL DB MODEL](<ER DIAGRAM.png>)
+
+
+
 
 
